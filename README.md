@@ -21,8 +21,7 @@ Brazilian, Based on the Gold Coast, QLD, Australia. <br/>
   
 ### Find me around the web
  
-<div> 
-  <a href = "mailto:gbrlsepulvedaau@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
   <a href="https://www.linkedin.com/in/gbrlsepulveda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/GbrlSepulveda" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
