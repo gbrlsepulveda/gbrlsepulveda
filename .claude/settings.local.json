@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git ls-tree:*)",
+      "Bash(git -C /opt/projects/gbrl/gbrlsepulveda branch:*)",
+      "Bash(git -C /opt/projects/gbrl/gbrlsepulveda status)",
+      "Bash(git -C /opt/projects/gbrl/gbrlsepulveda diff)",
+      "Bash(git -C /opt/projects/gbrl/gbrlsepulveda log -5 --oneline)",
+      "Bash(git add:*)"
+    ]
+  }
+}
