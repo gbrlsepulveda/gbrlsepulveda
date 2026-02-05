@@ -2,27 +2,16 @@
 
 ### Hello, I'm Gabriel Sepulveda 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
-<br/>
-
-Software Developer at [Desygner](https://desygner.com/) <br/>
-Brazilian, Based on the Gold Coast, QLD, Australia. <br/>
+Lead Software Engineer at Desygner / Fluer <br/>
+Brazilian, Based on the Gold Coast, QLD, Australia <br/>
 
 </samp>
 
-  
-### Find me around the web
- 
-<div>
-  <a href="https://www.linkedin.com/in/gbrlsepulveda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/GbrlSepulveda" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+### About
 
+Fullstack Software Engineer with 16+ years of experience building performant, accessible, and user-friendly web applications. Currently integrating generative AI into creative workflows and scaling applications for millions of users. Strong expertise in modern JavaScript ecosystems, component-driven architectures, RESTful APIs, and cloud infrastructure.
+
+<div>
+  <a href="https://gabrielsepulveda.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
